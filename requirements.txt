@@ -1,0 +1,9 @@
+flask
+psycopg2-binary
+flask-cors
+python-dotenv
+bs4
+beautifulsoup4
+pylint
+pytest
+pytest-cov
